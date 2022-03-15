@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# 啊哈，信任！
 
-You can use the [editor on GitHub](https://github.com/ahatrust/ahatrust/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/101647543/158390370-15713185-b87a-415f-80f7-73c64713228c.png)
+> 将心比心，以心换心。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+产品交换才成商品，商品交换后才有利润，利润累加后投资才形成资本，这才有了著名的《资本论》，[马克思是研究交换的大师。](https://mp.weixin.qq.com/s?__biz=MjM5NDU0Mjk2MQ==&amp;mid=2651768912&amp;idx=1&amp;sn=dbad31016922dad797af275a99220152&amp;chksm=bd7c4c4e8a0bc55897ecb46757c17d703f9b751485c6121de95d5d8c9d78cbb127c9f6970a84&amp;scene=21)
 
-### Markdown
+不是商品才依靠交换，人的一切，也需要交换。爱与信任也是如此，只有等价交换，爱与信任才能流通，你无法用假钞买商品，同理，你也无法用不爱与不信任换来爱与信任，至少，这种交换无法长期存在，比如父母师长可能单方面对孩子与学生付出爱与信任，得不到回报，但这种关系注定不健康，消耗很快，持久不了。长期的、健康的人与人的关系，必然是用爱换爱，用信任换信任。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+你希望得到什么，你就应该付出什么。而你有，才能付出。就像有钱，才可支付。你没爱，怎么付出爱？你无信用，怎么付出信任？想清楚这层关系，就是“君子求诸己”，你想要的，在你自己身上都有种子，把它养大，结果，付出给那些值得的人，你就会得到，财富、荣誉、信任、尊重、爱，都是这么得到的。你想要，但是自己身上的万有之种却死了，只是索取，那就是“小人求诸人”，只求得来苦。
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/101647543/158390626-719a3cef-f6ab-4dfe-88c7-7adef533875e.png)
+> [李延年](http://www.nnnews.net/yaowen/p/3095780.html)做思想政治工作，首重以身作则，次重因人施教，循循善诱。每每以接地气的朴实无华语言，将大道理诠释得通俗易懂，让人入脑入心。
 
-# Header 1
-## Header 2
-### Header 3
+## 参考
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahatrust/ahatrust/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
